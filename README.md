@@ -4,7 +4,7 @@ NNabla trial
 
 Train exp(x) estimator and predict on c++
 
-For datail, read [this Qiita Entry](TBD)
+For datail, read [this Qiita Entry](https://qiita.com/ashitani/items/c853b3883bc62a52be97)
 
 # requirements
 
